@@ -1,0 +1,2 @@
+# cp-workshop
+Copilot Workshop
