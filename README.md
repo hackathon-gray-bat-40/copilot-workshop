@@ -62,7 +62,7 @@ Open `index.html` in your browser to start the workshop.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/hackathon-black-bat-19/copilot-workshop.git
+   git clone <REPOSITORY_URL>
    ```
 
 2. Navigate to the project directory:
@@ -116,4 +116,4 @@ Contributions are welcome! If you'd like to improve the workshop:
 
 ## License
 
-This project is provided for educational purposes as part of the GitHub Universe Recap 2025 Jakarta Indonesia workshop.
+This project is provided for educational purposes as part of the GitHub Universe Recap 2025 Jakarta Indonesia workshop. No specific license has been designated.
